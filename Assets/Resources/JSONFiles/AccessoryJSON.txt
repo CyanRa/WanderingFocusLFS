@@ -1,0 +1,248 @@
+{
+    "accessory":[
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":true,
+	"isUnlocked":true
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Ribbon",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":false
+        },
+	
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        },
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"Stardew Small",
+        "pathtoimage":"AccessoryImages/Beanie",
+	"description":"Something sweet",
+	"price":3,
+	"isBought":false,
+	"isUnlocked":true
+        }
+		
+]
+
+}

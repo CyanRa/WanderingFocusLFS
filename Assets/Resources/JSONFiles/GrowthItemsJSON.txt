@@ -1,0 +1,275 @@
+{
+    "growthItems":[
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":3,
+	"growthvalue":5,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"Evolution Stone",
+        "pathtoimage":"GrowthItemImages/Evolution Stone",
+	"description":"Hard to the bite",
+	"price":10,
+	"growthvalue":20,
+	"amountavailable":3,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"Stardew Big",
+        "pathtoimage":"GrowthItemImages/Evolution Flower",
+	"description":"Is a twig",
+	"price":25,
+	"growthvalue":50,
+	"amountavailable":7,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew small",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":3,
+	"growthvalue":5,
+	"amountavailable":2,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"not Stardew Medium",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":10,
+	"growthvalue":20,
+	"amountavailable":200,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew Big",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":25,
+	"growthvalue":50,
+	"amountavailable":-8,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"Soul trail",
+        "pathtoimage":"GrowthItemImages/Soul Trail",
+	"description":"Tastes like a ghost",
+	"price":3,
+	"growthvalue":5,
+	"amountavailable":0,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"not Stardew Medium",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":10,
+	"growthvalue":20,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew Big",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":25,
+	"growthvalue":50,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	
+        {
+	"name":"Stardew Small",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":213,
+	"growthvalue":32,
+	"amountavailable":3,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"Evolution Stone",
+        "pathtoimage":"GrowthItemImages/Evolution Stone",
+	"description":"Hard to the bite",
+	"price":241,
+	"growthvalue":421,
+	"amountavailable":12,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"Stardew Big",
+        "pathtoimage":"GrowthItemImages/Evolution Flower",
+	"description":"Something sweet",
+	"price":145,
+	"growthvalue":15230,
+	"amountavailable":53,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew small",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":35,
+	"growthvalue":543,
+	"amountavailable":24,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"not Stardew Medium",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":10,
+	"growthvalue":20,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew Big",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":25,
+	"growthvalue":50,
+	"amountavailable":2,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"Soul trail",
+        "pathtoimage":"GrowthItemImages/Soul Trail",
+	"description":"Tastes like a ghost",
+	"price":3,
+	"growthvalue":5,
+	"amountavailable":3,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"not Stardew Medium",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":10,
+	"growthvalue":20,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew Big",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":25,
+	"growthvalue":50,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"Soul trail",
+        "pathtoimage":"GrowthItemImages/Soul Trail",
+	"description":"Tastes like a ghost",
+	"price":3,
+	"growthvalue":5,
+	"amountavailable":3,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"not Stardew Medium",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":10,
+	"growthvalue":20,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew Big",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":25,
+	"growthvalue":50,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"Soul trail",
+        "pathtoimage":"GrowthItemImages/Soul Trail",
+	"description":"Tastes like a ghost",
+	"price":3,
+	"growthvalue":5,
+	"amountavailable":3,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"not Stardew Medium",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":10,
+	"growthvalue":20,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew Big",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":25,
+	"growthvalue":50,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+		{
+	"name":"Soul trail",
+        "pathtoimage":"GrowthItemImages/Soul Trail",
+	"description":"Tastes like a ghost",
+	"price":3,
+	"growthvalue":5,
+	"amountavailable":3,
+	"isUnlocked":true
+        },
+	
+	{
+	"name":"not Stardew Medium",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":10,
+	"growthvalue":20,
+	"amountavailable":1,
+	"isUnlocked":true
+        },
+
+	{
+	"name":"not Stardew Big",
+        "pathtoimage":"GrowthItemImages/Stardew",
+	"description":"Something sweet",
+	"price":25,
+	"growthvalue":50,
+	"amountavailable":12,
+	"isUnlocked":true
+        }
+]
+
+}
